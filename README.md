@@ -22,3 +22,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vinicius-rosa-de-sousa-7440b311a/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991775454?text=Ol%C3%A1%20Leonardo,%20vim%20atraves%20do%20GitHub,%20tudo%20bem?)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=levidevbr&theme=blue-green)
