@@ -1,7 +1,6 @@
 
 <h1>Olá! Eu sou Leonardo Vinicius 🖐️</h1>
 
-<br>
 
 <p algin= "center" dir="auto">Sou de Florianópolis, Brasil🏖️</p>
 
