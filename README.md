@@ -27,4 +27,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levidevbr&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levidevbr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levidevbr&layout=compact&theme=blue-green)
