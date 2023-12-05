@@ -26,3 +26,5 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=levidevbr&theme=blue-green)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levidevbr&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levidevbr&layout=compact)
