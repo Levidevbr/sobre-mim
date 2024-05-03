@@ -13,6 +13,7 @@
   <p>
     <img algin= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img algin= "center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
     
   </p>
